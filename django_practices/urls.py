@@ -24,5 +24,6 @@ urlpatterns = [
     path('hello2/', helloworld_views.hello2),
     path('hello3/', helloworld_views.hello3),
     path('emaillist/', emaillist_views.index),
+    path('emaillist/form', emaillist_views.form),
     path('admin/', admin.site.urls),
 ]

@@ -42,7 +42,7 @@ python manage.py migrate
 장고 프로젝트 관리 애플리케이션의 관리자 계정 생성하기
 터미널에서
 python manage.py createsuperuser
-(id: shk9339@naver.com / ps: admin
+(name: admin email: shk9339@naver.com / ps: admin
 
 9. 지금까지 작업 내용 확인하기
 1) 서버 시작하기
